@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🧩 Configurable Workflow Engine (State-Machine API)
 
 A minimal backend API built with **.NET 8** that allows clients to define, run, and manage workflow instances as configurable state machines.
@@ -13,9 +10,7 @@ A minimal backend API built with **.NET 8** that allows clients to define, run, 
 ### Run the project
 ```bash
 dotnet run
-````
 
-The API will be available at: `http://localhost:5000` (or another port shown in the console)
 
 ---
 
@@ -103,8 +98,3 @@ This implementation uses **in-memory storage**. Data is lost on restart. Suitabl
   * The action is enabled
 * Final states cannot have outgoing transitions.
 * The API uses ASP.NET Core Minimal API style for simplicity.
-
----
-
-
-
