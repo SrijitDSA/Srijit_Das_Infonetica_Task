@@ -7,6 +7,10 @@ A minimal backend API built with **.NET 9** that allows clients to define, run, 
 ### Prerequisites
 - [.NET 9 SDK](https://dotnet.microsoft.com/download)
 
+### Run this command to convert your project into a web project
+```bash
+dotnet add package Microsoft.AspNetCore.App --framework net9.0
+```
 ### Run the project
 ```bash
 dotnet run
