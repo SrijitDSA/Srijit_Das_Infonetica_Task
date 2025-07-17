@@ -1,4 +1,3 @@
----
 
 ````markdown
 # 🧩 Configurable Workflow Engine (State-Machine API)
