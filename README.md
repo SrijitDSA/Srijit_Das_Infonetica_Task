@@ -1,3 +1,4 @@
+---
 
 ````markdown
 # 🧩 Configurable Workflow Engine (State-Machine API)
@@ -105,14 +106,5 @@ This implementation uses **in-memory storage**. Data is lost on restart. Suitabl
 
 ---
 
-## 🔧 Extensibility
 
-Designed with simplicity in mind, this codebase can be easily extended to support:
-
-* Persistent storage (e.g. JSON/YAML files or a database)
-* Action/State metadata
-* Role-based transitions
-* Workflow versioning
-
----
 
