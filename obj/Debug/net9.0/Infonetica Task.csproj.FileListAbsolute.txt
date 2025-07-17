@@ -1,0 +1,25 @@
+D:\Development\Projects\Infonetica Task\bin\Debug\net9.0\Infonetica Task.staticwebassets.endpoints.json
+D:\Development\Projects\Infonetica Task\bin\Debug\net9.0\Infonetica Task.exe
+D:\Development\Projects\Infonetica Task\bin\Debug\net9.0\Infonetica Task.deps.json
+D:\Development\Projects\Infonetica Task\bin\Debug\net9.0\Infonetica Task.runtimeconfig.json
+D:\Development\Projects\Infonetica Task\bin\Debug\net9.0\Infonetica Task.dll
+D:\Development\Projects\Infonetica Task\bin\Debug\net9.0\Infonetica Task.pdb
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.AssemblyInfoInputs.cache
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.AssemblyInfo.cs
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.csproj.CoreCompileInputs.cache
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\scopedcss\bundle\Infonetica Task.styles.css
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\staticwebassets.build.json
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\staticwebassets.development.json
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.dll
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\refint\Infonetica Task.dll
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.pdb
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\Infonetica Task.genruntimeconfig.cache
+D:\Development\Projects\Infonetica Task\obj\Debug\net9.0\ref\Infonetica Task.dll
